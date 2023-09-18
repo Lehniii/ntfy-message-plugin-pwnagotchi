@@ -12,4 +12,4 @@ main.plugins.ntfy_msg.serverlink = "URL to ntfytopic"
 
 ### 3. Restart the pwnagotchi service or reboot the Pi
 
-## And that's it
+## And that's it, now you should get a ntfy notification when a handshake is captured. Important!! your pwnagotchi needs Internet connection for this so activate Bluetooth Tethering. 
