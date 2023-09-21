@@ -8,6 +8,11 @@ Unofficial plugin for pwnagotchi -- Sends message to a ntfy service when a hands
 ```
 main.plugins.ntfy_msg.enabled = true
 main.plugins.ntfy_msg.serverlink = "URL to ntfytopic"
+
+
+Optional add following line to change your pwnagotchi name in the message:
+main.plugins.ntfy_msg.name = "pwnagotchiname"
+
 ```
 ### 3. Restart the pwnagotchi service or reboot the Pi
 
